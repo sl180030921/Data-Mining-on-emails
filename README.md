@@ -5,7 +5,7 @@ This project uses data mining techniques to analyze email content for potential 
 Phishing attacks are a major threat to online security, often aiming to steal sensitive information from unsuspecting users. This project builds a phishing detection system using a dataset of emails. It applies regular expression patterns to identify phishing and fraud-related keywords within email content. The system classifies emails as phishing or not based on keyword matches, and then evaluates the model's accuracy.
 
 ### Dataset
-The dataset used in this project is in CSV format, with the following columns:
+The dataset used in this project is in CSV format obtained from Kaggle, with the following columns:
 
 message: The content of the email, which will be analyzed for phishing or fraud attempts.
 
